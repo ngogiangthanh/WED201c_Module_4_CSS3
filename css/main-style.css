@@ -129,6 +129,7 @@ p {
     margin-bottom: 20px; /* Add space between image and paragraph */
     border-radius: 10px; /* Add rounded corners to the image */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border: 4px dashed #e8e829;
 }
 
 .grid-index p {
@@ -193,6 +194,7 @@ p {
     margin: 10px 0;
     width: 18%;
     border-radius: 5px;
+    border: 3px solid #106810;
 }
 
 /* Style the grid contact class */
